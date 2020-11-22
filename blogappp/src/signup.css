@@ -1,0 +1,13 @@
+.sign{
+align-content: center;
+padding-top: 50px;
+background-image: url(Pics/joanna-kosinska-1_CMoFsPfso-unsplash.jpg);
+height: 100vh;
+background-position: center;
+width: 100%;
+background-size: cover;
+box-sizing:border-box;
+  }
+button{
+  float: left;
+}

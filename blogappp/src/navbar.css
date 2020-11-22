@@ -1,0 +1,25 @@
+ul{
+    list-style-type: none;
+    overflow: hidden;
+    display: block;
+    background-color: #c5b8b8;
+    height: 6vh;
+    width: 100%;
+    margin: 0px;
+    padding:0px;
+    position: fixed;
+
+ }    
+li{
+    float: left;
+    display: inline;
+    display:block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;}
+ul button{
+    float: right;
+    padding-top:2px;
+    color:green;
+}

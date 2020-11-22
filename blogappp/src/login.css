@@ -1,0 +1,39 @@
+
+.Login{
+    align-content: center;
+    padding-top: 50px;
+    background-image: url(Pics/joanna-kosinska-1_CMoFsPfso-unsplash.jpg);
+    height: 100vh;
+    background-position: center;
+    width: 100%;
+    background-size: cover;
+    top: 50%;
+    left: 50%;
+    box-sizing:border-box;
+}
+
+/*table{
+    width:300px;
+    height:450px;
+    background: #000;
+    color: #fff;
+    top:30%;
+    left: 45%;
+    position: absolute;
+    box-sizing: border-box;
+}
+.login h1{
+    
+    margin: 0;
+    padding-top:15rem;
+    font-size:50px;
+    font-family: inherit;
+}
+ 
+img {
+    height: 450px;
+    width:150;
+    padding: 6rem 8rem;
+}*/
+ 
+
